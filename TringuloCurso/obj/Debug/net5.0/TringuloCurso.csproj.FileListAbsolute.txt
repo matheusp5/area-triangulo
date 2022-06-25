@@ -1,0 +1,16 @@
+C:\Users\mxthe\source\repos\TringuloCurso\TringuloCurso\bin\Debug\net5.0\TringuloCurso.exe
+C:\Users\mxthe\source\repos\TringuloCurso\TringuloCurso\bin\Debug\net5.0\TringuloCurso.deps.json
+C:\Users\mxthe\source\repos\TringuloCurso\TringuloCurso\bin\Debug\net5.0\TringuloCurso.runtimeconfig.json
+C:\Users\mxthe\source\repos\TringuloCurso\TringuloCurso\bin\Debug\net5.0\TringuloCurso.runtimeconfig.dev.json
+C:\Users\mxthe\source\repos\TringuloCurso\TringuloCurso\bin\Debug\net5.0\TringuloCurso.dll
+C:\Users\mxthe\source\repos\TringuloCurso\TringuloCurso\bin\Debug\net5.0\ref\TringuloCurso.dll
+C:\Users\mxthe\source\repos\TringuloCurso\TringuloCurso\bin\Debug\net5.0\TringuloCurso.pdb
+C:\Users\mxthe\source\repos\TringuloCurso\TringuloCurso\obj\Debug\net5.0\TringuloCurso.csproj.AssemblyReference.cache
+C:\Users\mxthe\source\repos\TringuloCurso\TringuloCurso\obj\Debug\net5.0\TringuloCurso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mxthe\source\repos\TringuloCurso\TringuloCurso\obj\Debug\net5.0\TringuloCurso.AssemblyInfoInputs.cache
+C:\Users\mxthe\source\repos\TringuloCurso\TringuloCurso\obj\Debug\net5.0\TringuloCurso.AssemblyInfo.cs
+C:\Users\mxthe\source\repos\TringuloCurso\TringuloCurso\obj\Debug\net5.0\TringuloCurso.csproj.CoreCompileInputs.cache
+C:\Users\mxthe\source\repos\TringuloCurso\TringuloCurso\obj\Debug\net5.0\TringuloCurso.dll
+C:\Users\mxthe\source\repos\TringuloCurso\TringuloCurso\obj\Debug\net5.0\ref\TringuloCurso.dll
+C:\Users\mxthe\source\repos\TringuloCurso\TringuloCurso\obj\Debug\net5.0\TringuloCurso.pdb
+C:\Users\mxthe\source\repos\TringuloCurso\TringuloCurso\obj\Debug\net5.0\TringuloCurso.genruntimeconfig.cache
